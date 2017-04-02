@@ -10,5 +10,8 @@ git config --global credential.helper cache
 git config --global credential.helper "cache --timeout=360000"
 git config --global push.default matching
 
+# Update packages
+apt-get update
+
 # Re-source .bashrc
 soure ~/.bashrc
