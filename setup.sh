@@ -14,4 +14,4 @@ git config --global push.default matching
 apt-get update
 
 # Re-source .bashrc
-soure ~/.bashrc
+source ~/.bashrc
