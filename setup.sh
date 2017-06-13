@@ -15,3 +15,6 @@ apt-get update
 
 # Re-source .bashrc
 source ~/.bashrc
+
+# Install Visual Studio Code
+./install_code.sh
